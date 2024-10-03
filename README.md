@@ -1,2 +1,2 @@
 # Customer-Risk-Analysis-Dashboard
-This project utilizes Power BI Desktop and Excel to empower businesses in reducing customer churn and enhancing customer service.
+This project utilizes Power BI Desktop and Excel to empower businesses in reducing customer churn and enhancing customer service.By analyzing data and visualizing insights, organizations can identify patterns that lead to customer loss and devise strategies to improve retention. This integration of tools helps in making informed decisions based on data-driven insights, ultimately fostering better customer relationships and service quality.
